@@ -14,7 +14,8 @@ Pretty much everything
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
 export LC_ALL="C"
-lunch omni_tucana-eng && mka recoveryimage```
+lunch omni_tucana-eng && mka recoveryimage
+```
 
 ## The build is located in
 ```/out/target/product/tucana/OrangeFox.zip```
